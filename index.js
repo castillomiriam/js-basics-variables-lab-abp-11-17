@@ -1,2 +1,2 @@
 let companyName = 'Scuber';
-companyName = 'specialCompany';
+specialCompany = 'raises error if the companyName is changed';
